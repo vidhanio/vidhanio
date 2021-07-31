@@ -50,3 +50,4 @@ Software developer, learning fullstack. Open to conversation and working on proj
 * [🌐 Website](https://vidhan.io)
 * [✉️ Email](mailto:me@vidhan.io)
 * [🕊 Twitter](https://twitter.com/vidhanio)
+* [💼 LinkedIn](https://www.linkedin.com/in/vidhanio/)
