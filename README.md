@@ -26,7 +26,7 @@ Hey, I'm Vidhan! I'm a Canadian student in the 12th grade. I am greatly interest
 ### 💿 Operating Systems
 
 * 🖥️ Computer
-  * 🪟 **Windows 10**
+  * 🟦 **Windows 10**
   * 🐧 Ubuntu on WSL
 * 📱 Phone
   * 🤖 **Android 10**
@@ -55,7 +55,7 @@ Hey, I'm Vidhan! I'm a Canadian student in the 12th grade. I am greatly interest
 * 💿 Favourite Albums
   * [🏔️ Pinkerton - Weezer](https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl)
   * [🚗 10&2 - Koi](https://open.spotify.com/album/40CTcZo5mU4ljfi6vH71bv)
-  * [🪨 The Fool - Bladee](https://open.spotify.com/album/2WEWkTfh6gj1oi63K5cFQS)
+  * [⛰️ The Fool - Bladee](https://open.spotify.com/album/2WEWkTfh6gj1oi63K5cFQS)
   * [🌌 The Perfect LUV Tape - Lil Uzi Vert](https://open.spotify.com/album/6LX75kNicFqjjiAOeZgN67)
 
 ### 🎮 Games
