@@ -1,24 +1,25 @@
-# 👋 About Me
+# 👦🏽 I'm Vidhan!
 
-## 🧒 Pronouns
 
-👦 I go by he/him!
+## 👋 About Me
 
-## 🤝 Introduction
+### 🧒 Pronouns
 
-🍁 Hey, I'm Vidhan! I'm a Canadian student in the 12th grade. 
+I go by he/him!
 
-👨‍💻 I am greatly interested in computer science and software development.
+### 🤝 Introduction
 
-🎶 I'm also interested in listening to music, gaming, and watching video essays!
+Hey, I'm Vidhan! I'm a Canadian student in the 12th grade. I am greatly interested in computer science and software development. I'm also interested in listening to music, gaming, and watching video essays!
 
-# Interests
+### 📚 Projects
 
-I'm interested in discord rich presence development, and creating useful tools for many people.
+* [💻 DMOJ Rich Presence](https://premid.app/store/presences/DMOJ)
+* [📦 VirtualBox Rich Presence](https://github.com/vidhanlol/virtualbox-rich-presence)
 
-# 📚 Projects
+## 📊 Stats
 
-I'm currently not working on anything big, but always on the lookout for new projects!
+[![Vidhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidhanlol)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 Here are some ideas to get you started:
