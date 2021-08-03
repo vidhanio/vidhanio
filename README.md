@@ -6,7 +6,7 @@
 
 ### 🧒 Pronouns
 
-My pronouns are he/him
+My pronouns are he/him.
 
 ### 🤝 Introduction
 
@@ -41,6 +41,25 @@ Hey, I'm Vidhan! I'm a Canadian student in the 12th grade. I am greatly interest
 * 🐍 **Python 3**
 * 🐿️ Go (learning)
 * ⌨️ Typescript (learning)
+
+## ⚾ Hobbies
+
+### 🎶 Music
+
+Favourite Artists:
+
+* [👼 Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1)
+* [👬 Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu)
+* [🐟 Koi](https://open.spotify.com/artist/76Plkuk64KSXfG04kwxNZk)
+* [⭐ Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3)
+* [🛸 Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz)
+
+Favourite Albums:
+
+* [🏔️ Pinkerton - Weezer](https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl)
+* [🚗 10&2 - Koi](https://open.spotify.com/album/40CTcZo5mU4ljfi6vH71bv)
+* [🪨 The Fool - Bladee](https://open.spotify.com/album/2WEWkTfh6gj1oi63K5cFQS)
+* [🌌 The Perfect LUV Tape - Lil Uzi Vert](https://open.spotify.com/album/6LX75kNicFqjjiAOeZgN67)
 
 ## 💬 Socials
 
