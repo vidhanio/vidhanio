@@ -4,7 +4,7 @@
 
 ### 🧒 Pronouns
 
-I go by he/him!
+I go by he/him
 
 ### 🤝 Introduction
 
@@ -19,7 +19,22 @@ Hey, I'm Vidhan! I'm a Canadian student in the 12th grade. I am greatly interest
 
 ## 💿 Operating Systems
 
-* 🪟 **Windows 10**
+* 🖥️ Computer
+  * 🪟 **Windows 10**
+  * 🐧 Ubuntu on WSL
+* Phone
+  * 🤖 **Android 10**
+
+## 📝 Editors
+
+* 🎗️ **Visual Studio Code**
+* 🟩 Neovim (learning)
+
+## Languages
+
+* 🐍 **Python 3**
+* 🐿️ Go (learning)
+* ⌨️ Typescript (learning)
 
 ## 📊 Stats
 
