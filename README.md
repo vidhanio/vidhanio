@@ -6,7 +6,7 @@
 
 ### 🧒 Pronouns
 
-I go by he/him
+My pronouns are he/him
 
 ### 🤝 Introduction
 
