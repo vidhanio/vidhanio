@@ -69,4 +69,5 @@ Hey, I'm Vidhan! I'm a Canadian student in the 12th grade. I am greatly interest
 
 ## 💬 Socials
 
+* ✉️ [Email](mailto:vidh.bhatt@gmail.com)
 * 💼 [LinkedIn](https://www.linkedin.com/in/vidhanlol/)
