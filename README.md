@@ -30,7 +30,7 @@ Hey, I'm Vidhan! I'm a Canadian student in the 12th grade. I am greatly interest
 * 🎗️ **Visual Studio Code**
 * 🟩 Neovim (learning)
 
-### Languages
+### 🗣️ Languages
 
 * 🐍 **Python 3**
 * 🐿️ Go (learning)
