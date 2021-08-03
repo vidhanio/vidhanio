@@ -10,7 +10,7 @@
 
 👨‍💻 I am greatly interested in computer science and software development.
 
-I'm also interested in gaming, listening to music, and watching video essays!
+🎶 I'm also interested in listening to music, gaming, and watching video essays!
 
 # Interests
 
