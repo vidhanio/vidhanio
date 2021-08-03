@@ -17,7 +17,7 @@ Hey, I'm Vidhan! I'm a Canadian student in the 12th grade. I am greatly interest
 
 ## 🧰 Toolbox
 
-## 💿 Operating Systems
+### 💿 Operating Systems
 
 * 🖥️ Computer
   * 🪟 **Windows 10**
@@ -25,12 +25,12 @@ Hey, I'm Vidhan! I'm a Canadian student in the 12th grade. I am greatly interest
 * Phone
   * 🤖 **Android 10**
 
-## 📝 Editors
+### 📝 Editors
 
 * 🎗️ **Visual Studio Code**
 * 🟩 Neovim (learning)
 
-## Languages
+### Languages
 
 * 🐍 **Python 3**
 * 🐿️ Go (learning)
