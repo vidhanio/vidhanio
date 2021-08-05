@@ -14,7 +14,7 @@ Hey, I'm Vidhan! I'm a Canadian student in the 12th grade. I am greatly interest
 
 ## 📊 Stats
 
-[![Vidhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidhanlol&count_private=true&show_icons=true&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
+[![Vidhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidhanlol&count_private=true&show_icons=true&title_color=FFC600&text_color=A5FF90&icon_color=9EFFFF&bg_color=193549)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📚 Projects
 
