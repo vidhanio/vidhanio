@@ -14,7 +14,11 @@ Hey, I'm Vidhan! I'm a Canadian student in the 12th grade. I am greatly interest
 
 ## 📊 Stats
 
-[![Vidhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidhanlol&count_private=true&show_icons=true&title_color=FFC600&text_color=A5FF90&icon_color=9EFFFF&bg_color=193549&border_color=717D88)](https://github.com/anuraghazra/github-readme-stats)
+[![Vidhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidhanlol&count_private=true&include_all_commits=true&show_icons=true&title_color=FFC600&text_color=A5FF90&icon_color=9EFFFF&bg_color=193549&border_color=717D88)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vidhanlol&layout=compact&title_color=FFC600&text_color=A5FF90&icon_color=9EFFFF&bg_color=193549&border_color=717D88)](https://github.com/anuraghazra/github-readme-stats)
+[![vidhanlol's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vidhanlol&layout=compact&title_color=FFC600&text_color=A5FF90&icon_color=9EFFFF&bg_color=193549&border_color=717D88)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ## 📚 Projects
 
