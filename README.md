@@ -1,6 +1,6 @@
 ![Banner Image](assets/banner.png)
 
-# 👦🏽 I'm Vidhan!
+# 👦🏽 I'm Vidhan
 
 ## 👋 About Me
 
