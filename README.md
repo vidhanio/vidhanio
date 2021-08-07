@@ -14,8 +14,10 @@ Hey, I'm Vidhan! I'm a Canadian student in the 12th grade. I am greatly interest
 
 ## 📊 Stats
 
-[![Vidhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidhanlol&count_private=true&include_all_commits=true&show_icons=true&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vidhanlol&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![Vidhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidhanlol&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vidhanlol&layout=compact&hide_border=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vidhanlol&hide_border=true&theme=tokyonight)](https://git.io/streak-stats)
+
 
 
 
