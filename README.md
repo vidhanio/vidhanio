@@ -43,6 +43,7 @@ Hey, I'm Vidhan! I'm a Canadian student in the 12th grade. I am greatly interest
 ### 🗣️ Languages
 
 * 🐍 **Python 3**
+* 🦀 Rust (learning)
 * 🐿️ Go (learning)
 * ⌨️ Typescript (learning)
 
@@ -64,7 +65,6 @@ Hey, I'm Vidhan! I'm a Canadian student in the 12th grade. I am greatly interest
 
 ### 🎮 Games
 
-* 🐵 Bloons Tower Defense 6
 * ⭐ Brawl Stars
 
 ### ❓ Miscellaneous
