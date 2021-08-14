@@ -45,7 +45,6 @@ Hey, I'm Vidhan! I'm a Canadian student in the 12th grade. I am greatly interest
 * 🐍 **Python 3**
 * 🦀 Rust (learning)
 * 🐿️ Go (learning)
-* ⌨️ Typescript (learning)
 
 ## ⚾ Hobbies
 
