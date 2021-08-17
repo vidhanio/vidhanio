@@ -43,8 +43,8 @@ Hey, I'm Vidhan! I'm a Canadian student in the 12th grade. I am greatly interest
 ### 🗣️ Languages
 
 * 🐍 **Python 3**
-* 🦀 Rust (learning)
 * 🐿️ Go (learning)
+* 🦀 Rust (learning)
 
 ## ⚾ Hobbies
 
@@ -57,9 +57,9 @@ Hey, I'm Vidhan! I'm a Canadian student in the 12th grade. I am greatly interest
   * [⭐ Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3)
   * [🛸 Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz)
 * 💿 Favourite Albums
+  * [🌅 2004 - Koi](https://open.spotify.com/album/7Lg9ULtao1VDUUkQ4ihpkk)
+  * [🗿 The Fool - Bladee](https://open.spotify.com/album/2WEWkTfh6gj1oi63K5cFQS)
   * [🏔️ Pinkerton - Weezer](https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl)
-  * [🚗 10&2 - Koi](https://open.spotify.com/album/40CTcZo5mU4ljfi6vH71bv)
-  * [⛰️ The Fool - Bladee](https://open.spotify.com/album/2WEWkTfh6gj1oi63K5cFQS)
   * [🌌 The Perfect LUV Tape - Lil Uzi Vert](https://open.spotify.com/album/6LX75kNicFqjjiAOeZgN67)
 
 ### 🎮 Games
@@ -74,3 +74,5 @@ Hey, I'm Vidhan! I'm a Canadian student in the 12th grade. I am greatly interest
 
 * ✉️ [Email](mailto:vidh.bhatt@gmail.com)
 * 💼 [LinkedIn](https://www.linkedin.com/in/vidhanlol/)
+* 🐦 [Twitter](https://twitter.com/vidhanpy)
+* 📚 [Stack Overflow](https://stackoverflow.com/users/6878838/vidhan)
