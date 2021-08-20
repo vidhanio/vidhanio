@@ -31,7 +31,7 @@ Hey, I'm Vidhan! I'm a Canadian student in the 12th grade. I am greatly interest
 
 * 🖥️ Computer
   * 🟦 **Windows 10**
-  * 🐧 Ubuntu on WSL
+  * 🐧 **Ubuntu 20.04 on WSL**
 * 📱 Phone
   * 🤖 **Android 10**
 
