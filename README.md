@@ -36,8 +36,8 @@ Hey, I'm Vidhan! I'm a Canadian student in the 12th grade. I am greatly interest
 
 ### 📝 Editors
 
-* 🎗️ **Visua Studio Code**
-* ✅Neovim (learning)
+* 🎗️ **Visual Studio Code**
+* ✅ Neovim (learning)
 
 ### 🗣️ Languages
 
