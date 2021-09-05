@@ -24,7 +24,7 @@ Hey, I'm Vidhan! I'm a Canadian student in the 12th grade. I am greatly interest
 
 * [💻 DMOJ Rich Presence](https://premid.app/store/presences/DMOJ)
 * [📦 VirtualBox Rich Presence](https://github.com/vidhanio/virtualbox-rich-presence)
-* [📅 Timetables Bot]((https://github.com/vidhanio/timetables-bot)
+* [📅 Timetables Bot](https://github.com/vidhanio/timetables-bot)
 
 ## 🧰 Toolbox
 
