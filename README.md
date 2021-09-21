@@ -36,7 +36,7 @@ Hey, I'm Vidhan! I'm a Canadian student in the 12th grade. I am greatly interest
 
 ## 💬 Socials
 
-* ✉️ [Email](mailto:vidhan@vidhan.io)
+* ✉️ [Email](mailto:me@vidhan.io)
 * 🕊 [Twitter](https://twitter.com/vidhanio)
 * 💼 [LinkedIn](https://www.linkedin.com/in/vidhanio/)
 * 📚 [Stack Overflow](https://stackoverflow.com/users/6878838/vidhan)
