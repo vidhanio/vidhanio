@@ -22,7 +22,7 @@ Hey, I'm Vidhan! I'm a Canadian student in the 12th grade. I am greatly interest
 * 🖥️ Computer
   * 🍎 **macOS Big Sur**
 * 📱 Phone
-  * 🤖 **Android 10**
+  * 🤖 **Android 11**
 
 ### 📝 Editors
 
@@ -33,7 +33,7 @@ Hey, I'm Vidhan! I'm a Canadian student in the 12th grade. I am greatly interest
 * 🐍 **Python 3**
 * 🐿️ Go (learning)
 * 📄 HTML (learning)
-* 🎨 CSS (learning)
+* 🎨 SCSS/CSS (learning)
 
 ## 💬 Socials
 
