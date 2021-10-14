@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Hey, I'm Vidhan! I'm a Canadian student in the 12th grade. I am greatly interested in computer science and software development. I'm also interested in biking and watching cooking videos in my free time.
+Hey, I'm Vidhan! I'm a Canadian student in the 12th grade. I am greatly interested in computer science and software development. 😄
 
 ## 📊 Stats
 
