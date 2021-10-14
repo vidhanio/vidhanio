@@ -11,9 +11,10 @@ Hey, I'm Vidhan! I'm a Canadian student in the 12th grade. I am greatly interest
 
 ## 📚 Projects
 
-* [💻 DMOJ Rich Presence](https://premid.app/store/presences/DMOJ)
+* [✅ Checkpoint](https://github.com/vidhanio/checkpoint)
 * [📦 VirtualBox Rich Presence](https://github.com/vidhanio/virtualbox-rich-presence)
 * [📅 Timetables Bot](https://github.com/vidhanio/timetables-bot)
+* [🟡 DMOJ Rich Presence](https://premid.app/store/presences/DMOJ)
 
 ## 🧰 Toolbox
 
@@ -37,7 +38,8 @@ Hey, I'm Vidhan! I'm a Canadian student in the 12th grade. I am greatly interest
 
 ## 💬 Socials
 
-* ✉️ [Email](mailto:me@vidhan.io)
-* 🕊 [Twitter](https://twitter.com/vidhanio)
-* 💼 [LinkedIn](https://www.linkedin.com/in/vidhanio/)
-* 📚 [Stack Overflow](https://stackoverflow.com/users/6878838/vidhan)
+* [🌐 Website](https://vidhan.io)
+* [✉️ Email](mailto:me@vidhan.io)
+* [🕊 Twitter](https://twitter.com/vidhanio)
+* [💼 LinkedIn](https://www.linkedin.com/in/vidhanio/)
+* [📚 Stack Overflow](https://stackoverflow.com/users/6878838/vidhan)
