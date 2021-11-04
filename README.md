@@ -4,9 +4,9 @@ Hey, I'm Vidhan! I'm a Canadian student in the 12th grade. I am greatly interest
 
 ## 📊 Stats
 
-[![Vidhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidhanio&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=vidhanio&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=tokyonight)
+[![Vidhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidhanio&count_private=true&include_all_commits=true&show_icons=true&theme=buefy)](https://github-readme-stats.vercel.app/api?username=vidhanio&count_private=true&include_all_commits=true&show_icons=true&theme=buefy)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vidhanio&hide_border=true&theme=tokyonight)](https://github-readme-streak-stats.herokuapp.com/?user=vidhanio&hide_border=true&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vidhanio&theme=buefy)](https://github-readme-streak-stats.herokuapp.com/?user=vidhanio&theme=buefy)
 
 
 ## 📚 Projects
@@ -33,6 +33,7 @@ Hey, I'm Vidhan! I'm a Canadian student in the 12th grade. I am greatly interest
 
 * 🐍 **Python 3**
 * 🐿️ **Go (learning)**
+* ⚫️ Next.js (learning)
 * ⚛️ React (learning)
 * 🟦 TypeScript (learning)
 
