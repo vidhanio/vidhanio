@@ -33,9 +33,9 @@ Hey, I'm Vidhan! I'm a Canadian student in the 12th grade. I am greatly interest
 
 * 🐍 **Python 3**
 * 🐿️ **Go (learning)**
-* ⚫️ Next.js (learning)
-* ⚛️ React (learning)
-* 🟦 TypeScript (learning)
+* ⚫️ Next.js
+* ⚛️ React
+* 🟦 TypeScript
 
 ## 💬 Socials
 
