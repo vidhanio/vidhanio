@@ -21,7 +21,7 @@ Hey, I'm Vidhan! I'm a Canadian student in the 12th grade. I am greatly interest
 ### 💿 Operating Systems
 
 * 🖥️ Computer
-  * 🍎 **macOS Big Sur**
+  * 🍎 **macOS Monterey**
 * 📱 Phone
   * 🤖 **Android 11**
 
