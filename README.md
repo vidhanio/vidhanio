@@ -31,11 +31,14 @@ Hey, I'm Vidhan! I'm a Canadian student in the 12th grade. I am greatly interest
 
 ### 🗣️ Languages
 
-* 🐍 **Python 3**
-* 🐿️ **Go (learning)**
+* 🐍 Python 3
+* 🐿️ Go
 * ⚫️ Next.js
 * ⚛️ React
 * 🟦 TypeScript
+* 🍃 MongoDB
+* 🟢 Node.js
+* ⬛️ Express
 
 ## 💬 Socials
 
