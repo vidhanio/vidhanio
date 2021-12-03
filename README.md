@@ -28,6 +28,8 @@ Software developer, learning fullstack. Open to conversation and working on proj
 * ⚛️ TypeScript React
 * 🐍 Python 3
 * 📄 HTML
+* 🌬 Tailwind
+* 💞 SCSS
 * 🎨 CSS
 
 ### 🥞 Stack
