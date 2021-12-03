@@ -23,10 +23,12 @@ Software developer, learning fullstack. Open to conversation and working on proj
 
 ### 🗣️ Languages
 
-* 🐍 Python 3
 * 🐿️ Go
 * 🟦 TypeScript
 * ⚛️ TypeScript React
+* 🐍 Python 3
+* 📄 HTML
+* 🎨 CSS
 
 ### 🥞 Stack
 
