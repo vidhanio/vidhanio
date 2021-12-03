@@ -30,14 +30,14 @@ Software developer, learning fullstack. Open to conversation and working on proj
 
 ### 🥞 Stack
 
-* Frontend
+* 🖥 Frontend
   * ⚫️ Next.js
-* Backend
+* ⚙️ Backend
   * 🟢 Node.js
   * 🐿️ Go
-* Database
+* 📦 Database
   * 🍃 MongoDB
-* Hosting
+* ⚡️ Hosting
   * ☁️ Google Cloud Platform
   * 🔼 Vercel
 
