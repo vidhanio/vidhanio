@@ -1,20 +1,12 @@
 ## 👋 About Me
 
-Hey, I'm Vidhan! I'm a Canadian student in the 12th grade. I am greatly interested in computer science and software development. 😄
+Software developer, learning fullstack. Open to conversation and working on projects together. Email me @ [me@vidhan.io](mailto:me@vidhan.io) and lets talk!
 
 ## 📊 Stats
 
-[![Vidhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidhanio&count_private=true&include_all_commits=true&show_icons=true&theme=buefy)](https://github-readme-stats.vercel.app/api?username=vidhanio&count_private=true&include_all_commits=true&show_icons=true&theme=buefy)
+[![Vidhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidhanio&count_private=true&include_all_commits=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=vidhanio&count_private=true&include_all_commits=true&show_icons=truey)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vidhanio&theme=buefy)](https://github-readme-streak-stats.herokuapp.com/?user=vidhanio&theme=buefy)
-
-
-## 📚 Projects
-
-* [✅ Checkpoint](https://github.com/vidhanio/checkpoint)
-* [📦 VirtualBox Rich Presence](https://github.com/vidhanio/virtualbox-rich-presence)
-* [📅 Timetables Bot](https://github.com/vidhanio/timetables-bot)
-* [🟡 DMOJ Rich Presence](https://premid.app/store/presences/DMOJ)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vidhanio)](https://github-readme-streak-stats.herokuapp.com/?user=vidhanio)
 
 ## 🧰 Toolbox
 
@@ -33,12 +25,21 @@ Hey, I'm Vidhan! I'm a Canadian student in the 12th grade. I am greatly interest
 
 * 🐍 Python 3
 * 🐿️ Go
-* ⚫️ Next.js
-* ⚛️ React
 * 🟦 TypeScript
-* 🍃 MongoDB
-* 🟢 Node.js
-* ⬛️ Express
+* ⚛️ TypeScript React
+
+### 🥞 Stack
+
+* Frontend
+  * ⚫️ Next.js
+* Backend
+  * 🟢 Node.js
+  * 🐿️ Go
+* Database
+  * 🍃 MongoDB
+* Hosting
+  * ☁️ Google Cloud Platform
+  * 🔼 Vercel
 
 ## 💬 Socials
 
