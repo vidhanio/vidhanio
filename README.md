@@ -1,6 +1,8 @@
 ## 👋 About Me
 
-Software developer, learning fullstack. Open to conversation and working on projects together. Email me @ [me@vidhan.io](mailto:me@vidhan.io) and lets talk!
+Software developer, Discord bot developer, web developer, learning fullstack. Open to conversation and working on projects together. Email me @ [me@vidhan.io](mailto:me@vidhan.io) and lets talk!
+
+Currently working on [Levely](https://levely.me)
 
 ## 📊 Stats
 
