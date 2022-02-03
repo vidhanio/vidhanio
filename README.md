@@ -2,7 +2,7 @@
 
 Software developer, Discord bot developer, web developer, learning fullstack. Open to conversation and working on projects together. Email me @ [me@vidhan.io](mailto:me@vidhan.io) and lets talk!
 
-Currently working on [Levely](https://levely.me) && my own bot, [diswordle](https://github.com/vidhanio/diswordle). Check them out!
+Currently working on [diswordle](https://github.com/vidhanio/diswordle). Check it out!
 
 ## 📊 Stats
 
