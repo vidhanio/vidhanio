@@ -28,6 +28,7 @@ Currently working on [diswordle](https://github.com/vidhanio/diswordle). Check i
 * 🐿️ Go
 * 🟦 TypeScript
 * ⚛️ TypeScript React
+* ☕️ Java
 * 🐍 Python 3
 * 📄 HTML
 * 🌬 Tailwind
