@@ -22,6 +22,7 @@ Currently working on [diswordle](https://github.com/vidhanio/diswordle), as well
 ### 📝 Editors
 
 * 🎗️ **Visual Studio Code**
+* ✅ **Neovim**
 
 ### 🗣️ Languages
 
