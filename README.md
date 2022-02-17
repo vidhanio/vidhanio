@@ -35,18 +35,14 @@ Currently working on [diswordle](https://github.com/vidhanio/diswordle), as well
 * 💞 SCSS
 * 🎨 CSS
 
-### 🥞 Stack
+### 🔧 Tools
 
-* 🖥 Frontend
-  * ⚫️ Next.js
-* ⚙️ Backend
-  * 🟢 Node.js
-  * 🐿️ Go
-* 📦 Database
-  * 🍃 MongoDB
-* ⚡️ Hosting
-  * ☁️ Google Cloud Platform
-  * 🔼 Vercel
+* ⚫️ Next.js
+* 🍃 MongoDB
+* ☁️ Google Cloud Platform
+* 🔼 Vercel
+* 🐳 Docker
+* ☸️ Kubernetes
 
 ## 💬 Socials
 
