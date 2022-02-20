@@ -31,6 +31,7 @@ Currently working on [diswordle](https://github.com/vidhanio/diswordle), as well
 * ⚛️ TypeScript React
 * ☕️ Java
 * 🐍 Python 3
+* 🦀 Rust (Learning)
 * 📄 HTML
 * 🌬 Tailwind
 * 💞 SCSS
