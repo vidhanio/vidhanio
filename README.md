@@ -1,4 +1,4 @@
-## 👋 About Me
+# 👋 About Me
 
 Software developer, Discord bot developer, web developer, learning fullstack. Open to conversation and working on projects together. Email me @ [me@vidhan.io](mailto:me@vidhan.io) and lets talk!
 
@@ -32,6 +32,7 @@ Currently working on [diswordle](https://github.com/vidhanio/diswordle), as well
 * ☕️ Java
 * 🐍 Python 3
 * 🦀 Rust (Learning)
+* 🟣 C++ (Learning)
 * 📄 HTML
 * 🌬 Tailwind
 * 💞 SCSS
