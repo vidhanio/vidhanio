@@ -6,18 +6,6 @@ Currently working on [diswordle](https://github.com/vidhanio/diswordle), as well
 
 ## 🧰 Toolbox
 
-### 💿 Operating Systems
-
-* 🖥️ Computer
-  * 🍎 **macOS Monterey**
-* 📱 Phone
-  * 🤖 **Android 11**
-
-### 📝 Editors
-
-* 🎗️ **Visual Studio Code**
-* ✅ **Neovim**
-
 ### 🗣️ Languages
 
 * 🐿️ Go
