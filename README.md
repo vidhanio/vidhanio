@@ -1,6 +1,6 @@
 # 👋 About Me
 
-^(Fullstack|Discord Bot|Software) Developer$. Open to conversation and working on projects together. Email me @ [me@vidhan.io](mailto:me@vidhan.io) and lets talk!
+`^(Fullstack|Discord Bot|Software) Developer$`. Open to conversation and working on projects together. Email me @ [me@vidhan.io](mailto:me@vidhan.io) and lets talk!
 
 Currently working on [diswordle](https://github.com/vidhanio/diswordle), as well as my [site](https://github.com/vidhanio/site). Check it out!
 
