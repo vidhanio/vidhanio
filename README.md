@@ -4,8 +4,6 @@
 
 Currently working on [diswordle](https://github.com/vidhanio/diswordle), as well as my [site](https://github.com/vidhanio/site). Check it out!
 
-## 🧰 Toolbox
-
 | 🗣️ Languages        | 🔧 Tools                 |
 | ------------------ | ----------------------- |
 | 🐿️ Go               | ⚫️ Next.js               |
@@ -22,8 +20,10 @@ Currently working on [diswordle](https://github.com/vidhanio/diswordle), as well
 
 ## 💬 Socials
 
-* [🌐 Website](https://vidhan.io)
-* [✉️ Email](mailto:me@vidhan.io)
-* [🕊 Twitter](https://twitter.com/vidhanio)
-* [💼 LinkedIn](https://www.linkedin.com/in/vidhanio/)
-* [📚 Stack Overflow](https://stackoverflow.com/users/6878838/vidhan)
+| 💬 Socials                                                          |
+| ------------------------------------------------------------------ |
+| [🌐 Website](https://vidhan.io)                                     |
+| [✉️ Email](mailto:me@vidhan.io)                                     |
+| [🕊 Twitter](https://twitter.com/vidhanio)                          |
+| [💼 LinkedIn](https://www.linkedin.com/in/vidhanio/)                |
+| [📚 Stack Overflow](https://stackoverflow.com/users/6878838/vidhan) |
