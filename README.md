@@ -4,12 +4,6 @@ Software developer, Discord bot developer, web developer, learning fullstack. Op
 
 Currently working on [diswordle](https://github.com/vidhanio/diswordle), as well as my [site](https://github.com/vidhanio/site). Check it out!
 
-## 📊 Stats
-
-[![Vidhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=vidhanio&count_private=true&include_all_commits=true&show_icons=true)](https://github-readme-stats.vercel.app/api?username=vidhanio&count_private=true&include_all_commits=true&show_icons=truey)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vidhanio)](https://github-readme-streak-stats.herokuapp.com/?user=vidhanio)
-
 ## 🧰 Toolbox
 
 ### 💿 Operating Systems
