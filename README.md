@@ -18,8 +18,6 @@ Currently working on [diswordle](https://github.com/vidhanio/diswordle), as well
 | 💞 SCSS             |                         |
 | 🎨 CSS              |                         |
 
-## 💬 Socials
-
 | 💬 Socials                                                          |
 | ------------------------------------------------------------------ |
 | [🌐 Website](https://vidhan.io)                                     |
