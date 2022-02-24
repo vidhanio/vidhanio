@@ -6,28 +6,19 @@ Currently working on [diswordle](https://github.com/vidhanio/diswordle), as well
 
 ## 🧰 Toolbox
 
-### 🗣️ Languages
-
-* 🐿️ Go
-* 🟦 TypeScript
-* ⚛️ TypeScript React
-* ☕️ Java
-* 🐍 Python 3
-* 🦀 Rust (Learning)
-* 🟣 C++ (Learning)
-* 📄 HTML
-* 🌬 Tailwind
-* 💞 SCSS
-* 🎨 CSS
-
-### 🔧 Tools
-
-* ⚫️ Next.js
-* 🍃 MongoDB
-* ☁️ Google Cloud Platform
-* 🔼 Vercel
-* 🐳 Docker
-* ☸️ Kubernetes
+| 🗣️ Languages        | 🔧 Tools                 |
+| ------------------ | ----------------------- |
+| 🐿️ Go               | ⚫️ Next.js               |
+| 🟦 TypeScript       | 🍃 MongoDB               |
+| ⚛️ TypeScript React | ☁️ Google Cloud Platform |
+| ☕️ Java             | 🔼 Vercel                |
+| 🐍 Python 3         | 🐳 Docker                |
+| 🦀 Rust (Learning)  | ☸️ Kubernetes            |
+| 🟣 C++ (Learning)   |                         |
+| 📄 HTML             |                         |
+| 🌬 Tailwind         |                         |
+| 💞 SCSS             |                         |
+| 🎨 CSS              |                         |
 
 ## 💬 Socials
 
