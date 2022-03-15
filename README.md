@@ -11,8 +11,9 @@ Currently working on [diswordle](https://github.com/vidhanio/diswordle), as well
 | ⚛️ TypeScript React | ☁️ Google Cloud Platform | [🕊 Twitter](https://twitter.com/vidhanio)           |
 | ☕️ Java             | 🔼 Vercel                | [💼 LinkedIn](https://www.linkedin.com/in/vidhanio/) |
 | 🐍 Python 3         | 🐳 Docker                |
-| 🦀 Rust (Learning)  | ☸️ Kubernetes            |
-| 🟣 C++ (Learning)   |
+| 🦀 Rust             | ☸️ Kubernetes            |
+| ♦️ Solidity         |
+| 🟣 C++              |
 | 📄 HTML             |
 | 🌬 Tailwind         |
 | 💞 SCSS             |
