@@ -12,7 +12,7 @@ Currently working on [diswordle](https://github.com/vidhanio/diswordle), as well
 | ☕️ Java             | 🔼 Vercel                | [💼 LinkedIn](https://www.linkedin.com/in/vidhanio/) |
 | 🐍 Python 3         | 🐳 Docker                |
 | 🦀 Rust             | ☸️ Kubernetes            |
-| ♦️ Solidity         |
+| ♦️ Solidity         | ⛑ Hardhat               |
 | 🟣 C++              |
 | 📄 HTML             |
 | 🌬 Tailwind         |
