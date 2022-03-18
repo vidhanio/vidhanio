@@ -8,9 +8,9 @@ Currently working on [diswordle](https://github.com/vidhanio/diswordle), as well
 | ---------- | --------------------- | ------------------------------------------------- |
 | Go         | Next.js               | [Website](https://vidhan.io)                      |
 | TypeScript | React                 | [Email](mailto:me@vidhan.io)                      |
-| JavaScript | Svelte                |
-| Java       | Tailwind              | [Twitter](https://twitter.com/vidhanio)           |
-| Python 3   | Vercel                | [LinkedIn](https://www.linkedin.com/in/vidhanio/) |
+| JavaScript | Svelte                | [Twitter](https://twitter.com/vidhanio)           |
+| Java       | Tailwind              | [LinkedIn](https://www.linkedin.com/in/vidhanio/) |
+| Python 3   | Vercel                |
 | Rust       | Google Cloud Platform |
 | Solidity   | Hardhat               |
 | HTML       | Docker                |
