@@ -13,7 +13,7 @@ Currently working on [diswordle](https://github.com/vidhanio/diswordle), as well
 | 🐍 Python 3         | 🐳 Docker                |
 | 🦀 Rust             | ☸️ Kubernetes            |
 | ♦️ Solidity         | ⛑ Hardhat               |
-| 🟣 C++              |
+| 🟣 C++              | 🥕 Svelte                |
 | 📄 HTML             |
 | 🌬 Tailwind         |
 | 💞 SCSS             |
