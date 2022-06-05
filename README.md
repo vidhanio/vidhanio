@@ -1,18 +1,11 @@
 # About Me
 
-`/^(Fullstack|Discord Bot|Software|Blockchain) Developer$/`. Open to conversation and working on projects together. Email me @ [me@vidhan.io](mailto:me@vidhan.io) and lets talk!
+`/^(fullstack|discord Bot|software) developer$/`. open to conversation and working on projects together. email me @ [me@vidhan.io](mailto:me@vidhan.io) and lets talk.
 
-Currently working on [diswordle](https://github.com/vidhanio/diswordle), as well as my [site](https://github.com/vidhanio/site). Check it out!
+currently rewriting [checkpoint](https://github.com/vidhanio/checkpoint) in rust (🚀).
 
-| Languages  | Tools                 | Socials                                           |
-| ---------- | --------------------- | ------------------------------------------------- |
-| Go         | Next.js               | [Website](https://vidhan.io)                      |
-| TypeScript | React                 | [Email](mailto:me@vidhan.io)                      |
-| JavaScript | Svelte                | [Twitter](https://twitter.com/vidhanio)           |
-| Java       | Tailwind              | [LinkedIn](https://www.linkedin.com/in/vidhanio/) |
-| Python 3   | Vercel                |
-| Rust       | Google Cloud Platform |
-| Solidity   | Hardhat               |
-| HTML       | Docker                |
-| SCSS       | Kubernetes            |
-| CSS        | MongoDB               |
+[website](https://vidhan.io)
+[email](mailto:me@vidhan.io)
+[twitter](https://twitter.com/vidhanio)
+[linkedin](https://linkedin.com/in/vidhanio/)
+[discord](https://discord.com/users/277507281652940800)
