@@ -1,6 +1,6 @@
 # About Me
 
-`/^(fullstack|discord Bot|software) developer$/`. open to conversation and working on projects together. email me @ [me@vidhan.io](mailto:me@vidhan.io) and lets talk.
+`/^(fullstack|discord bot|software) developer$/`. open to conversation and working on projects together. email me @ [me@vidhan.io](mailto:me@vidhan.io) and lets talk.
 
 currently rewriting [checkpoint](https://github.com/vidhanio/checkpoint) in rust (🚀).
 
