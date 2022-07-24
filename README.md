@@ -2,7 +2,7 @@
 
 `/^(fullstack|discord bot|software) developer$/`. open to conversation and working on projects together. email me @ [me@vidhan.io](mailto:me@vidhan.io) and lets talk.
 
-currently rewriting [checkpoint](https://github.com/vidhanio/checkpoint) in rust (🚀).
+currently writing an nba api wrapper in rust (🚀).
 
 [website](https://vidhan.io)
 [email](mailto:me@vidhan.io)
