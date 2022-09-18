@@ -1,8 +1,8 @@
 # About Me
 
-`/^(fullstack|discord bot|software) developer$/`. open to conversation and working on projects together. email me @ [me@vidhan.io](mailto:me@vidhan.io) and lets talk.
+`/^(fullstack|software) developer$/`. open to conversation and working on projects together. email me @ [me@vidhan.io](mailto:me@vidhan.io) and lets talk.
 
-currently writing an nba api wrapper in rust (🚀).
+currently writing a universty work management tool in rust (🚀).
 
 [website](https://vidhan.io)
 [email](mailto:me@vidhan.io)
