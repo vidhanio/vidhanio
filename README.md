@@ -1,6 +1,6 @@
 # About Me
 
-`/^(fullstack|software) developer$/`. open to conversation and working on projects together. email me @ [me@vidhan.io](mailto:me@vidhan.io) and lets talk.
+`/^(fullstack|software) developer$/`. open to conversation and working on projects together. email me @ [me@vidhan.io](mailto:me@vidhan.io) and lets talk. I love github.com
 
 currently writing an [nba stats api crate](https://github.com/vidhanio/nba-rs).
 
