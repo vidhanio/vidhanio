@@ -9,3 +9,4 @@ currently working on [thriftedd](https://thriftedd.com).
 [twitter](https://twitter.com/vidhanio)
 [linkedin](https://linkedin.com/in/vidhanio/)
 [discord](https://discord.com/users/277507281652940800)
+[resume](/resume.pdf)
