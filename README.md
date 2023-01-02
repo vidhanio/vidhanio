@@ -2,7 +2,7 @@
 
 `/^(fullstack|software) developer$/`. open to conversation and working on projects together. email me @ [me@vidhan.io](mailto:me@vidhan.io) and lets talk.
 
-currently writing an [nba stats api crate](https://github.com/vidhanio/nba-rs).
+currently working on [thriftedd](https://thriftedd.com).
 
 [website](https://vidhan.io)
 [email](mailto:me@vidhan.io)

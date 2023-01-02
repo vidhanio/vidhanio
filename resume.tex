@@ -1,0 +1,260 @@
+%-------------------------
+% Resume in Latex
+% Author : Jake Gutierrez
+% Based off of: https://github.com/sb2nov/resume
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% serif
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING----------
+% \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+%   \textbf{\href{http://sourabhbajaj.com/}{\Large Sourabh Bajaj}} & Email : \href{mailto:sourabh@sourabhbajaj.com}{sourabh@sourabhbajaj.com}\\
+%   \href{http://sourabhbajaj.com/}{http://www.sourabhbajaj.com} & Mobile : +1-123-456-7890 \\
+% \end{tabular*}
+
+\begin{center}
+  \textbf{\Huge \scshape Vidhan Bhatt} \\ \vspace{1pt}
+  \small [REDACTED \#] $|$ \href{mailto:me@vidhan.io}{\underline{me@vidhan.io}} $|$
+  \href{https://vidhan.io}{\underline{vidhan.io}} $|$
+  \href{https://linkedin.com/in/vidhanio}{\underline{linkedin.com/in/vidhanio}} $|$
+  \href{https://github.com/vidhanio}{\underline{github.com/vidhanio}}
+\end{center}
+
+
+%-----------EDUCATION-----------
+\section{Education}
+\resumeSubHeadingListStart
+\resumeSubheading
+{McMaster University}{Hamilton, Ontario}
+{B.A.Sc in Computer Science}{Sep. 2022 -- May 2026}
+\resumeSubHeadingListEnd
+
+
+% %-----------EXPERIENCE-----------
+% \section{Experience}
+% \resumeSubHeadingListStart
+
+% \resumeSubheading
+% {Undergraduate Research Assistant}{June 2020 -- Present}
+% {Texas A\&M University}{College Station, TX}
+% \resumeItemListStart
+% \resumeItem{Developed a REST API using FastAPI and PostgreSQL to store data from learning management systems}
+% \resumeItem{Developed a full-stack web application using Flask, React, PostgreSQL and Docker to analyze GitHub data}
+% \resumeItem{Explored ways to visualize GitHub collaboration in a classroom setting}
+% \resumeItemListEnd
+
+% % -----------Multiple Positions Heading-----------
+% %    \resumeSubSubheading
+% %     {Software Engineer I}{Oct 2014 - Sep 2016}
+% %     \resumeItemListStart
+% %        \resumeItem{Apache Beam}
+% %          {Apache Beam is a unified model for defining both batch and streaming data-parallel processing pipelines}
+% %     \resumeItemListEnd
+% %    \resumeSubHeadingListEnd
+% %-------------------------------------------
+
+% \resumeSubheading
+% {Information Technology Support Specialist}{Sep. 2018 -- Present}
+% {Southwestern University}{Georgetown, TX}
+% \resumeItemListStart
+% \resumeItem{Communicate with managers to set up campus computers used on campus}
+% \resumeItem{Assess and troubleshoot computer problems brought by students, faculty and staff}
+% \resumeItem{Maintain upkeep of computers, classroom equipment, and 200 printers across campus}
+% \resumeItemListEnd
+
+% \resumeSubheading
+% {Artificial Intelligence Research Assistant}{May 2019 -- July 2019}
+% {Southwestern University}{Georgetown, TX}
+% \resumeItemListStart
+% \resumeItem{Explored methods to generate video game dungeons based off of \emph{The Legend of Zelda}}
+% \resumeItem{Developed a game in Java to test the generated dungeons}
+% \resumeItem{Contributed 50K+ lines of code to an established codebase via Git}
+% \resumeItem{Conducted  a human subject study to determine which video game dungeon generation technique is enjoyable}
+% \resumeItem{Wrote an 8-page paper and gave multiple presentations on-campus}
+% \resumeItem{Presented virtually to the World Conference on Computational Intelligence}
+% \resumeItemListEnd
+
+% \resumeSubHeadingListEnd
+
+
+%-----------PROJECTS-----------
+\section{Projects}
+\resumeSubHeadingListStart
+
+\resumeProjectHeading
+{\textbf{fncli} $|$ \emph{Rust, GitHub Actions}}{December 2022 -- Present}
+\resumeItemListStart
+\resumeItem{A Rust library to simplify writing command line applications}
+\resumeItem{Implemented industry-standard testing and continuous integration using GitHub Actions}
+\resumeItem{Received 29 stars on GitHub over the span of 3 days}
+\resumeItemListEnd
+
+\resumeProjectHeading
+{\textbf{MacEats} $|$ \emph{Rust, Warp, Reqwest, React, Next.js, Docker, Fly.io}}{October 2022}
+\resumeItemListStart
+\resumeItem{A full-stack modern reimplementation of MacEats, the McMaster University campus dining site}
+\resumeItem{Made for the 2022 McMaster CS Society Hacktober Competition and received 100\% in judge voting, placing second overall in the competition}
+\resumeItem{Used Rust to make a general-purpose library to access the original data, a Rust backend built upon that library, and a Next.js/React frontend built upon that backend.}
+\resumeItem{Used Fly.io to deploy the backend and frontend}
+\resumeItemListEnd
+
+\resumeProjectHeading
+{\textbf{StatMuse Bot} $|$ \emph{Rust, Axum, Sled, Twitter API v2, OAuth2, Fly.io}}{October 2022}
+\resumeItemListStart
+\resumeItem{A Twitter bot which gets NBA players stats from StatMuse}
+\resumeItem{Uses OAuth2 to authenticate with the Twitter API v2}
+\resumeItem{Deployed using Fly.io}
+\resumeItemListEnd
+
+\resumeProjectHeading
+{\textbf{vidhan.io} $|$ \emph{React, Next.js, Tailwind CSS, MDX, Prism, Vercel}}{February 2022 -- April 2022}
+\resumeItemListStart
+\resumeItem{My personal site, used as a home page and a blog}
+\resumeItem{Blog was written completely from scratch using MDX, and Prism as my syntax highlighter}
+\resumeItem{Made using Next.js, Tailwind CSS, and MDX for the blog, and deployed using Vercel}
+\resumeItemListEnd
+
+\resumeProjectHeading
+{\textbf{Checkpoint} $|$ \emph{Go, DiscordGo, Docker, GitHub Actions, Google Cloud Platform}}{October 2021 -- February 2022}
+\resumeItemListStart
+\resumeItem{A Discord student identity verification bot for clubs in the Peel District School Board}
+\resumeItem{Made to combat rampant spam bots which would join servers in our school}
+\resumeItem{Used Go to make the Discord bot which was deployed to Google Compute Engine, using GitHub Actions to automate the deployment process}
+\resumeItem{Included other useful features such as applying grade roles and pronouns}
+\resumeItemListEnd
+
+\resumeProjectHeading
+{\textbf{Diswordle} $|$ \emph{Go, DiscordGo, Docker, GitHub Actions, Google Cloud Platform}}{October 2021 -- February 2022}
+\resumeItemListStart
+\resumeItem{A discord bot which re-implemented the popular word-guess game Wordle.}
+\resumeItem{Also wrote the Wordle engine entirely from scratch, which was used in the bot}
+\resumeItem{Used Go to make the Discord bot which was deployed to Google Compute Engine, using GitHub Actions to automate the deployment process}
+\resumeItemListEnd
+
+\resumeProjectHeading
+{\textbf{Timetables} $|$ \emph{Python, Google Cloud Platform}}{August 2021 -- September 2021}
+\resumeItemListStart
+\resumeItem{A Discord bot to crowdsource your timetable to find who shares classes with you}
+\resumeItem{Parsed PDF timetables provided by the school, and turned them into an easy-to-use data structure}
+\resumeItem{Allowed many different ways to view the data, such as a list of people in your classes or a list of classes you share with a person}
+\resumeItem{Written in only four days, and was used by over 100 students before school started, receiving very positive feedback}
+\resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+
+
+%
+%-----------PROGRAMMING SKILLS-----------
+\section{Technical Skills}
+\begin{itemize}[leftmargin=0.15in, label={}]
+  \small{\item{
+                \textbf{Languages}{: Rust, Go, JavaScript, TypeScript, Python, Haskell, Java, SQL, Docker, Solidity, HTML, CSS} \\
+                \textbf{Frameworks}{: React, Node.js, Next.js, Swing, Discord API, Twitter API v2, Tailwind CSS} \\
+                \textbf{Developer Tools}{: Visual Studio Code, Vim, Google Cloud Platform, Fly.io, Vercel, Poetry, GitHub, GitHub Actions, Git} \\
+                \textbf{Libraries}{: Axum, Warp, SQLx, Sled, Reqwest, DiscordGo}
+          }}
+\end{itemize}
+
+
+%-------------------------------------------
+\end{document}
