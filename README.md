@@ -1,6 +1,6 @@
 # About Me
 
-`/^(fullstack|software) developer$/`. open to conversation and working on projects together. email me @ [me@vidhan.io](mailto:me@vidhan.io) and lets talk.
+developer. open to conversation and working on projects together. email me @ [me@vidhan.io](mailto:me@vidhan.io) and lets talk.
 
 currently working on [thriftedd](https://thriftedd.com).
 
