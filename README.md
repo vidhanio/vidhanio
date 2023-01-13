@@ -8,5 +8,5 @@ currently working on [thriftedd](https://thriftedd.com).
 [email](mailto:me@vidhan.io)
 [twitter](https://twitter.com/vidhanio)
 [linkedin](https://linkedin.com/in/vidhanio/)
-[discord](https://discord.com/users/277507281652940800)
+[discord](https://discord.com/users/1063329635569512520)
 [resume](/resume/resume.pdf)
