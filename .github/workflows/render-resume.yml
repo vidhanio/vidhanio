@@ -1,0 +1,56 @@
+name: Render Resume
+
+on:
+  push:
+    paths:
+      - ".github/workflows/**"
+      - "resume/**"
+
+jobs:
+  compile:
+    name: Compile
+
+    permissions:
+      contents: write
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Typst
+        uses: yusancky/setup-typst@v2
+        with:
+          version: latest
+
+      - name: Compile
+        run: typst compile resume/resume.typ resume.pdf
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: resume
+          path: resume.pdf
+
+  release:
+    name: Release
+
+    permissions:
+      contents: write
+
+    needs: compile
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Download artifact
+        uses: actions/download-artifact@v3
+        with:
+          name: resume
+
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: resume-${{ github.sha }}
+          files: resume.pdf
