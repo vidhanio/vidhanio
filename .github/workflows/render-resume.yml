@@ -3,7 +3,7 @@ name: Render Resume
 on:
   push:
     paths:
-      - ".github/workflows/**"
+      - ".github/workflows/render-resume.yml"
       - "resume/**"
 
 jobs:
