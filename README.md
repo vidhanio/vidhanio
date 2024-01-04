@@ -1,4 +1,4 @@
-# About Me
+# about me
 
 developer. open to conversation and working on projects together. email me @ [me@vidhan.io](mailto:me@vidhan.io) and lets talk.
 
