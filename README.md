@@ -2,8 +2,6 @@
 
 developer. open to conversation and working on projects together. email me @ [me@vidhan.io](mailto:me@vidhan.io) and lets talk.
 
-chief technical officer of [thriftedd](https://thriftedd.com).
-
 [website](https://vidhan.io) |
 [email](mailto:me@vidhan.io) |
 [twitter](https://twitter.com/vidhanio) |
